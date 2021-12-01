@@ -19,6 +19,7 @@ the variables bellow:
 - house_type_id_HouseType 2: Casa o chalet: bool
 - house_type_id_HouseType 4: Dúplex: bool
 - house_type_id_HouseType 5: Áticos: bool
+
 After creating the object, you need to use him with the predict method.
 
 Example:
